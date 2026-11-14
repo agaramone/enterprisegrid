@@ -1,0 +1,19 @@
+/* EnterpriseGrid Self-Contained Core Styles */
+.ig_cell-editable:hover {
+  background-color: rgba(99, 102, 241, 0.04);
+  cursor: pointer;
+}
+
+.ig_sticky-left {
+  position: sticky;
+  left: 0;
+  z-index: 15;
+  box-shadow: 2px 0 5px -2px rgba(15, 23, 42, 0.08);
+}
+
+.ig_sticky-right {
+  position: sticky;
+  right: 0;
+  z-index: 15;
+  box-shadow: -2px 0 5px -2px rgba(15, 23, 42, 0.08);
+}
