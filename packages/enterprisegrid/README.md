@@ -1,8 +1,12 @@
 # @enterprisegrid/grid (v3.0.0)
 
+[![Homepage](https://img.shields.io/badge/Homepage-enterprisegrid.vercel.app-4f46e5.svg)](https://enterprisegrid.vercel.app)
+[![Git Repository](https://img.shields.io/badge/Git%20Repo-agaramone%2Fenterprisegrid-181717.svg)](https://github.com/agaramone/enterprisegrid.git)
 [![License: MIT](https://img.shields.io/badge/License-MIT-indigo.svg)](./LICENSE)
-[![Sponsor EnterpriseGrid](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink.svg)](https://github.com/sponsors/enterprisegrid)
-[![Open Collective](https://img.shields.io/badge/Open%20Collective-Support-blue.svg)](https://opencollective.com/enterprisegrid)
+[![Sponsor EnterpriseGrid](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink.svg)](https://github.com/sponsors/agaramone)
+
+- **Official Homepage & Live Docs**: [https://enterprisegrid.vercel.app](https://enterprisegrid.vercel.app)
+- **Git Repository**: [https://github.com/agaramone/enterprisegrid.git](https://github.com/agaramone/enterprisegrid.git)
 
 An enterprise-grade, AI-native, zero-dependency React Data Grid component. Built for maximum developer ergonomics, `@enterprisegrid/grid` **v3.0.0** installs without peer conflicts and works 100% out-of-the-box with **zero external runtime dependencies beyond React** (`react` and `react-dom`). Built-in SVG icons, animation fallbacks, interactive Month/Week/Agenda Calendar views, geospatial Map projections, Sparklines, Heatmaps, and a deterministic local analytical AI engine ensure the grid never breaks even if optional packages are absent.
 
@@ -23,7 +27,7 @@ An enterprise-grade, AI-native, zero-dependency React Data Grid component. Built
 9. [Plugin Architecture (`DataTablePlugin<T>`)](#plugin-architecture)
 10. [Exported Hooks & Theming Utilities](#exported-hooks--theming-utilities)
 11. [Full Prop Reference](#full-prop-reference)
-12. [Funding & Open-Source Sponsorship](#funding--open-source-sponsorship)
+12. [Repository, Homepage & Funding](#repository-homepage--funding)
 13. [License (MIT)](#license)
 
 ---
@@ -398,13 +402,18 @@ const auditBadgePlugin: DataTablePlugin<MyRow> = {
 
 ---
 
-## Funding & Open-Source Sponsorship
+## Repository, Homepage & Funding
+
+- **Homepage & Live Interactive Playgrounds**: [https://enterprisegrid.vercel.app](https://enterprisegrid.vercel.app)
+- **Git Repository**: [https://github.com/agaramone/enterprisegrid.git](https://github.com/agaramone/enterprisegrid.git) (`git clone https://github.com/agaramone/enterprisegrid.git`)
+- **Issue Tracker**: [https://github.com/agaramone/enterprisegrid/issues](https://github.com/agaramone/enterprisegrid/issues)
+
+### Open-Source Sponsorship
 
 `@enterprisegrid/grid` is **100% free and open-source** software maintained under the permissive **MIT License**. If EnterpriseGrid powers your production dashboards or saves your engineering team time, consider supporting ongoing development and maintenance:
 
-- **GitHub Sponsors**: [https://github.com/sponsors/enterprisegrid](https://github.com/sponsors/enterprisegrid)
-- **Open Collective**: [https://opencollective.com/enterprisegrid](https://opencollective.com/enterprisegrid)
-- **Patreon**: [https://patreon.com/enterprisegrid](https://patreon.com/enterprisegrid)
+- **GitHub Sponsors**: [https://github.com/sponsors/agaramone](https://github.com/sponsors/agaramone)
+- **Project Homepage**: [https://enterprisegrid.vercel.app](https://enterprisegrid.vercel.app)
 - **CLI Funding Info**: Run `npm fund @enterprisegrid/grid` in your project terminal.
 
 ---

@@ -542,7 +542,16 @@ export default function Docs() {
                   <span>Download .tgz (v3.0.0)</span>
                 </a>
                 <a
-                  href="https://github.com/sponsors/enterprisegrid"
+                  href="https://github.com/agaramone/enterprisegrid.git"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="h-11 px-5 rounded-xl bg-white text-slate-700 border border-slate-200 text-sm font-semibold flex items-center justify-center gap-2 hover:bg-slate-100 transition-colors whitespace-nowrap shrink-0"
+                  id="docs-repo-btn"
+                >
+                  <span>Git Repository</span>
+                </a>
+                <a
+                  href="https://github.com/sponsors/agaramone"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="h-11 px-5 rounded-xl bg-rose-50 text-rose-700 border border-rose-200 text-sm font-semibold flex items-center justify-center gap-2 hover:bg-rose-100 transition-colors whitespace-nowrap shrink-0"

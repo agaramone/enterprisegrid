@@ -48,25 +48,21 @@
   "funding": [
     {
       "type": "github",
-      "url": "https://github.com/sponsors/enterprisegrid"
+      "url": "https://github.com/sponsors/agaramone"
     },
     {
-      "type": "opencollective",
-      "url": "https://opencollective.com/enterprisegrid"
-    },
-    {
-      "type": "patreon",
-      "url": "https://patreon.com/enterprisegrid"
+      "type": "custom",
+      "url": "https://enterprisegrid.vercel.app"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/enterprisegrid/grid.git"
+    "url": "https://github.com/agaramone/enterprisegrid.git"
   },
   "bugs": {
-    "url": "https://github.com/enterprisegrid/grid/issues"
+    "url": "https://github.com/agaramone/enterprisegrid/issues"
   },
-  "homepage": "https://github.com/enterprisegrid/grid#readme",
+  "homepage": "https://enterprisegrid.vercel.app",
   "publishConfig": {
     "access": "public"
   },

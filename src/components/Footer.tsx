@@ -18,7 +18,15 @@ export default function Footer() {
             Themes
           </Link>
           <a
-            href="https://github.com/sponsors/enterprisegrid"
+            href="https://github.com/agaramone/enterprisegrid.git"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-slate-900 transition-colors whitespace-nowrap shrink-0"
+          >
+            GitHub
+          </a>
+          <a
+            href="https://github.com/sponsors/agaramone"
             target="_blank"
             rel="noopener noreferrer"
             className="text-rose-600 hover:text-rose-700 font-semibold transition-colors whitespace-nowrap shrink-0"
